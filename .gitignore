@@ -1,0 +1,12 @@
+.env
+*.env
+.venv/
+__pycache__/
+*.pyc
+data/
+eval_no_critic/
+eval_no_critic_hallucination/
+eval_outputs_qa_hallucination/
+eval_smoke_no_critic/
+eval_with_critic_beam/
+eval_with_critic_hallucination/
